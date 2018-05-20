@@ -275,11 +275,12 @@
 - [ChainTip GitHub Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties)
 - [Donate to allow BountySource to accept Bitcoin Cash](https://www.bountysource.com/issues/49027183-add-bitcoin-cash-support-to-bountysource)
 
-### Tipping
+### Tipping/Donating
 
 - [ChainTip](https://www.chaintip.org/) (on-chain tipping - reddit, GitHub)
 - [Tippr](https://np.reddit.com/r/tippr/wiki/index) (reddit, Twitter)
 - [tipmebch](https://github.com/abrkn/tipmebch) (Telegram)
+- [Stream4Bitcoin.Cash](https://stream4bitcoin.cash) (BCH/StreamLabs gateway)
 
 # Wallets
 
